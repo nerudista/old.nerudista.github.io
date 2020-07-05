@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Medir para Educar: Evaluaciones PLANEA en México "
-date:   2020-06-27 10:00:00 -0500
+date:   2020-07-04 10:00:00 -0500
 categories: educacion
 subtitle: "¿Y cómo le va a la escuela de tus hijos, sobrinos o hermanos?"
 background: '/img/posts/post01/header.jpg'
@@ -9,7 +9,7 @@ background: '/img/posts/post01/header.jpg'
 
 ## Todo empezó con una pregunta
 
-Hace algunos meses algunos padres de familia pedimos una reunión con la maestra titular de una de mis hijas para platicar sobre algunos temas, referentes al desempeño escolar, que nos tenían preocupados. Si bien en algún momento se tocaron temas como la importancia, o no, del factor social en la educación, el valor de la reglas o la cantidad de tareas que se dejaban; lo que más me dejó intrigado fue la aseveración sobre la caída del nivel académico del colegio. Cuando pregunté acerca de los datos que respaldaban tal creencia resultó que no habían. O al menos eso creí. 
+Hace unos meses algunos padres de familia pedimos una reunión con la maestra titular de una de mis hijas para platicar sobre varios temas, referentes al desempeño escolar, que nos tenían preocupados. Si bien se tocaron temas como la importancia, o no, del factor social en la educación, el valor de la reglas o la cantidad de tareas que se dejaban; lo que más me dejó intrigado fue la aseveración sobre la caída del nivel académico del colegio y el cómo otros colegios estaban dando mejor educación. Cuando pregunté acerca de los datos que respaldaban tal creencia resultó que no habían. O al menos eso creí. 
 
 ## Las pruebas PLANEA y ENLACE
 
@@ -38,7 +38,7 @@ Las áreas que evalua son **Matemáticas** y **Lenguaje Y Comunicación**. En ca
 
 Si se pregunta porqué como padre debería importarle este tipo de evaluaciones, podría mencionar el estudio[^3] del 2011 que sugiere que un mejor maestro de preescolar conlleva una mayor probabilidad de terminar la universidad  y de tener mayores ingresos a los 27 años, o el del 2014[^4], que indica que un docente con mayor "valor agregado" en cuarto de primaria aumenta, en promedio, el ingreso futuro del estudiante en alrededor de 39,000 dólares durante su vida adulta. Si bien estos estudios se llevaron a cabo en Estados Unidos, nos pueden dar una idea de la importancia de una buena educación desde edades tempranas.
 
-Los resultados de las pruebas PLANEA se pueden encontrar en la página de la SEP[^5], donde se pueden consultar resultados por escuela o hasta por alumno, o también en portales como [Mejora Tu Escuela](http://www.mejoratuescuela.org/) que incluso crea un ranking y tiene herramientas para comparar por escuela.
+Los resultados de las pruebas PLANEA se encuentran en la página de la SEP[^5], donde se pueden consultar resultados por escuela o hasta por alumno, o también en portales como [Mejora Tu Escuela](http://www.mejoratuescuela.org/) que incluso crea un ranking y tiene herramientas para comparar por escuela.
 
 Sin embargo, esas herramientas no me dejaban ver gráficamente el desempeño del colegio respecto a los demás en el municipio. O si este se comporta mejor respecto a otros en el estado.
 
@@ -72,16 +72,19 @@ Por otro lado, en Miguel Hidalgo
 
 En San Cristobal de las Casas hay muchas menos opciones de educación primaria e incluso las mejores escuelas tienen un alto porcentaje de alumnos con calificación **Insuficiente** y un porcentaje muy bajo en calificación **Sobresaliente**.
 
-En la pestaña "Tabla de Datos" están los resultados en Matemáticas y Lenguaje y Comunicación de cada escuela. También están los rankings municipales y estatales. De ahí se puede observar que la mejor escuela en San Cristobal de las Casas es la 91 en todo Chiapas y en ninguno de los mejores cinco colegios hay alguno que tenga más del 30% de alumnos dentro del rango Sobresaliente.
+![img3](/img/posts/post01/San_Cristobal.png)
+
+
+En la pestaña "Tabla de Datos" están los resultados en **Matemáticas** y **Lenguaje y Comunicación** de cada escuela. También están los rankings municipales y estatales. De ahí se observa que la mejor escuela en San Cristobal de las Casas es la 91 en todo Chiapas y en ninguno de los mejores cinco colegios hay alguno que tenga más del 30% de alumnos dentro del rango Sobresaliente.
 
 ![img3](/img/posts/post01/San_Cristobal_Tabla.png)
 
 
 Si la educación de mis hijas fuera un factor determinante para escoger donde vivir, probablemente ese municipio no sería una buena opción para mí.
 
-## ¿Y la escuela de mi hijo/sobrino/nieto/hermano?
+## ¿Y la escuela de mis hijos/sobrinos/nietos/hermanos?
 
-La aplicación está construida para que cualquiera pueda hacer uso de ella. Incluso se puede buscar directamente la escuela dentro de la tabla de datos. Sólo hay que escoger la Entidad Federativa y el Municipio:
+La aplicación está construida para que cualquiera pueda hacer uso de ella. Incluso se puede buscar directamente la escuela dentro de la tabla de datos. 
 
 ![search](/img/posts/post01/Search.png)
 
@@ -97,7 +100,7 @@ Una vez dentro hay tres opciones que se deben escoger:
 - Municipio
 - Nivel (Primaria o Secundaria)
 
-Del lado derecho se pintan dos gráficas y una tabla de datos. Una de las gráficas muestra los resultados en **Matemáticas** y la otra en **Lenguaje y Comunicación**. La tabla, como se mostró anteriormente, muestra los resultados y los rankings de cada escuela.
+Del lado derecho se pintan dos gráficas y una tabla de datos. Una de las gráficas muestra los resultados en **Matemáticas** y la otra en **Lenguaje y Comunicación**. La tabla, como se revisó anteriormente, arroja los resultados y los rankings de cada escuela.
 
 Los invito a usar la aplicación y a conocer los resultados de las escuelas de su gente cercana para que puedan acercarse y hacer las sugerencias que consideren oportunas. La educación es la principal heramienta que tenemos para mejorar la movilidad social. 
 
