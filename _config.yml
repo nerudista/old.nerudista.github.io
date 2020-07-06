@@ -47,7 +47,13 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
+collections_dir: my_collections
 
+collections:
+  colaboraciones:
+    output: true
+    permalink: /:collection/:title/
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -2,9 +2,12 @@
 layout: page
 title: Colaboraciones
 background: '/img/bg-colaboraciones.jpg'
+pagination:
+  enabled: true
+  collection: stuff
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.colaboraciones %}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -30,17 +33,17 @@ background: '/img/bg-colaboraciones.jpg'
 {% endfor %}
 
 <!-- Pager -->
-{% if paginator.total_pages > 1 %}
+{% if site.colaboraciones.total_pages > 1 %}
 
 <div class="clearfix">
 
-  {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
+  {% if site.colaboraciones.previous_page %}
+  <a class="btn btn-primary float-left" href="{{ site.colaboraciones.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
     Newer<span class="d-none d-md-inline"> Posts</span></a>
   {% endif %}
 
-  {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  {% if site.colaboraciones.next_page %}
+  <a class="btn btn-primary float-right" href="{{ site.colaboraciones.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
   {% endif %}
 
 </div>
