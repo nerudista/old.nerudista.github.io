@@ -41,7 +41,7 @@ Los ejercicios eran muy sencillos. Básicamente era dibujar una colmena usando l
 En una hora trabajamos desde un `print` hasta un _ciclo_ y una _función_. Todo sin dejar de jugar.
 
 
-![nerus](/img/colaboraciones/post01/nerus.jpg)
+![nerus](/img/colaboraciones/post01/Nerus.jpg)
 
 Como los materiales estaban en inglés, [sv_vyse](https://twitter.com/sv_vyse) y un servidor nos pusimos a traducir un par de talleres al español para que sean más fáciles de seguir. Llevamos dos y aún faltan un montón.
 
