@@ -24,7 +24,7 @@ Es entonces cuando la belleza de **Python** emerge. A pesar de no tener la estru
 - Envío de mails.
 - Y un montón de tareas que hoy hacemos manualmente y que se podrían automatizar.
 
-![espaldas](/img/colaboraciones/post01/Espalda.jpg)
+![espaldas](/img/colaboraciones/post01/Espalda.JPG)
 
 ## #ConLosNiñosSí
 
@@ -41,7 +41,7 @@ Los ejercicios eran muy sencillos. Básicamente era dibujar una colmena usando l
 En una hora trabajamos desde un `print` hasta un _ciclo_ y una _función_. Todo sin dejar de jugar.
 
 
-![nerus](/img/colaboraciones/post01/Nerus.jpg)
+![nerus](/img/colaboraciones/post01/Nerus.JPG)
 
 Como los materiales estaban en inglés, [sv_vyse](https://twitter.com/sv_vyse) y un servidor nos pusimos a traducir un par de talleres al español para que sean más fáciles de seguir. Llevamos dos y aún faltan un montón.
 
